@@ -1,0 +1,12 @@
+Hello
+How are you
+What is your favorite color
+What time is it
+What is the day today
+Show me your commands
+Hide your commands
+Can you do some math for me
+Open Google
+Open Facebook
+Open Bing
+Can you speak Vietnamese

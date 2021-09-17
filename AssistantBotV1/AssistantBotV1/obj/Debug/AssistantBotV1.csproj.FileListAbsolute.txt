@@ -1,0 +1,9 @@
+C:\Users\ADMIN\source\repos\AssistantBotV1\AssistantBotV1\bin\Debug\AssistantBotV1.exe
+C:\Users\ADMIN\source\repos\AssistantBotV1\AssistantBotV1\bin\Debug\AssistantBotV1.pdb
+C:\Users\ADMIN\source\repos\AssistantBotV1\AssistantBotV1\obj\Debug\AssistantBotV1.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\AssistantBotV1\AssistantBotV1\obj\Debug\AssistantBotV1.Form1.resources
+C:\Users\ADMIN\source\repos\AssistantBotV1\AssistantBotV1\obj\Debug\AssistantBotV1.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\AssistantBotV1\AssistantBotV1\obj\Debug\AssistantBotV1.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\AssistantBotV1\AssistantBotV1\obj\Debug\AssistantBotV1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\AssistantBotV1\AssistantBotV1\obj\Debug\AssistantBotV1.exe
+C:\Users\ADMIN\source\repos\AssistantBotV1\AssistantBotV1\obj\Debug\AssistantBotV1.pdb

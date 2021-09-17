@@ -1,0 +1,12 @@
++Hi,how are you/Hello,how are you/Good day,how are you/
++I am good,thank you/I am good/
++blue/green/yellow/red/pink/purple/grey/white/
+*time
+*day
+*Show
+*Hide
+*math
+$Google
+$Facebook
+$Bing
+Yes I can
